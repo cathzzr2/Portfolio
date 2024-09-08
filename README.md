@@ -12,7 +12,7 @@ This project showcase three innovative projects: Lion Dining, pawprint.ai, and G
 ### Pawprint.ai 
 Pawprint.ai is a heartfelt virtual pet memorial service that helps pet owners preserve and cherish the memories of their beloved companions. It offers an easy-to-use platform where users can enhance old photos of their pets and engage in interactive chats, keeping their pets’ memories alive in a meaningful way.
 
-<img width="425" alt="pawprint" src="https://github.com/user-attachments/assets/1caa2e8c-8178-449b-bbcf-a3bffa250352">
+<img width="300" alt="pawprint" src="https://github.com/user-attachments/assets/1caa2e8c-8178-449b-bbcf-a3bffa250352">
 
 - **Bring Memories Back to Life:** Users can upload old or faded photos of their pets, and Pawprint.ai will automatically enhance them using AI technology, improving quality and adding artistic filters. Whether you want a clearer image or a creative transformation, the process is seamless and user-friendly. The platform can also merge your favorite photos of you and your pet, creating heartwarming keepsakes that celebrate your bond.
 Interactive Memorial Chat:
