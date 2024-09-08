@@ -1,5 +1,5 @@
 # Portfolio
-Welcome to my micro-portfolio!
+Welcome to Catherine Zhao's micro-portfolio!
 
 ## Personal Info
 - **Education**: Junior in Computer Science @**Columbia University, Barnard College**
@@ -14,6 +14,7 @@ Pawprint.ai is a heartfelt virtual pet memorial service that helps pet owners pr
 
 <img width="300" alt="pawprint" src="https://github.com/user-attachments/assets/1caa2e8c-8178-449b-bbcf-a3bffa250352">
 
+
 - **Bring Memories Back to Life:** Users can upload old or faded photos of their pets, and Pawprint.ai will automatically enhance them using AI technology, improving quality and adding artistic filters.
 - **Interactive Memorial Chat::** Pawprint.ai offers a unique chat feature where users can engage with a chatbot that simulates their pet’s personality. Through an onboarding quiz and memory prompts, the chat becomes more personalized, creating meaningful and comforting conversations.
   
@@ -21,6 +22,7 @@ Pawprint.ai is a heartfelt virtual pet memorial service that helps pet owners pr
 Lion Dining is an iOS app designed specifically for Columbia University students and faculty, helping them discover and review on-campus dining options. 
 
 <img width="300" alt="liondining" src="https://github.com/user-attachments/assets/21469224-e2ff-45b2-94d2-3e8a678325bd">
+
 
 - **Access Reviews for 17 Dining Locations:** Users can browse rate, and leave detailed reviews for all on-campus dining halls, sharing their thoughts on specific dishes and overall experiences.
 - **Personalized Dining Suggestions:** Integrated with Firebase, the app tracks individual preferences and dietary needs, offering customized dining suggestions based on previous ratings and meal choices.
@@ -31,6 +33,7 @@ Lion Dining is an iOS app designed specifically for Columbia University students
 GoKV is an efficient Key-Value storage solution developed in Go leveraging [bitcask](https://medium.com/@arpitbhayani/bitcask-a-log-structured-fast-kv-store-c6c728a9536b) model.
 
 <img width="300" alt="Screenshot 2024-09-07 at 22 34 12" src="https://github.com/user-attachments/assets/009ba424-68f4-4ba8-8fee-20c972a150ad">
+
 
 - **In-Memory Indexing:** By storing keys in memory, GoKV accelerates read operations, making it possible to retrieve values with minimal disk access.
 - **Redis Compatibility:** GoKV extends its functionality by supporting Redis data structures and protocols, allowing seamless data migration and interaction with existing Redis-based systems.
