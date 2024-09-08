@@ -9,7 +9,7 @@ Welcome to Catherine Zhao's micro-portfolio! This repo shows my personal/team pr
 ## Project Overview
 This project showcase 3 creative projects: Lion Dining, pawprint.ai, and GoKV.
 
-### Pawprint.ai 
+### Pawprint.ai 🐾
 Pawprint.ai is a heartfelt virtual pet memorial service that helps pet owners preserve and cherish the memories of their beloved companions. It offers an easy-to-use platform where users can enhance old photos of their pets and engage in interactive chats, keeping their pets’ memories alive in a meaningful way.
 
 <img width="300" alt="pawprint" src="https://github.com/user-attachments/assets/1caa2e8c-8178-449b-bbcf-a3bffa250352">
@@ -18,7 +18,7 @@ Pawprint.ai is a heartfelt virtual pet memorial service that helps pet owners pr
 - **Bring Memories Back to Life:** Users can upload old or faded photos of their pets, and Pawprint.ai will automatically enhance them using AI technology, improving quality and adding artistic filters.
 - **Interactive Memorial Chat::** Pawprint.ai offers a unique chat feature where users can engage with a chatbot that simulates their pet’s personality. Through an onboarding quiz and memory prompts, the chat becomes more personalized, creating meaningful and comforting conversations.
   
-### Lion Dining
+### Lion Dining 🦁
 Lion Dining is an iOS app designed specifically for Columbia University students and faculty, helping them discover and review on-campus dining options. 
 
 <img width="300" alt="liondining" src="https://github.com/user-attachments/assets/21469224-e2ff-45b2-94d2-3e8a678325bd">
@@ -29,7 +29,7 @@ Lion Dining is an iOS app designed specifically for Columbia University students
 - **Real-Time Notifications:** Stay updated with meal suggestions and dining alerts based on what’s available, ensuring to never miss out on your favorite meals or dietary-friendly options.
 - **Private Community for Columbian's Only:** Users can sign up and log in securely using @columbia.edu account, making the onboarding process quick and hassle-free.
 
-### GoKV
+### GoKV 📊
 GoKV is an efficient Key-Value storage solution developed in Go leveraging [bitcask](https://medium.com/@arpitbhayani/bitcask-a-log-structured-fast-kv-store-c6c728a9536b) model.
 
 <img width="300" alt="Screenshot 2024-09-07 at 22 34 12" src="https://github.com/user-attachments/assets/009ba424-68f4-4ba8-8fee-20c972a150ad">
