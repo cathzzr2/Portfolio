@@ -7,7 +7,7 @@ Welcome to Catherine Zhao's micro-portfolio!
 - **Interest**: Excited about software engineer roles; experienced in backend and iOS development.
 
 ## Project Overview
-This project showcase three innovative projects: Lion Dining, pawprint.ai, and GoKV.
+This project showcase 3 creative projects: Lion Dining, pawprint.ai, and GoKV.
 
 ### Pawprint.ai 
 Pawprint.ai is a heartfelt virtual pet memorial service that helps pet owners preserve and cherish the memories of their beloved companions. It offers an easy-to-use platform where users can enhance old photos of their pets and engage in interactive chats, keeping their pets’ memories alive in a meaningful way.
