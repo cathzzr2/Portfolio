@@ -2,9 +2,9 @@
 Welcome to my micro-portfolio!
 
 ## Personal Info
-- Education: Junior in Computer Science @**Columbia University, Barnard College**
-- Coursework: Parallel Optimization for Robotics, Natural Language Processing (NLP), Advanced System Programming, Data Structures and Algorithms, Discrete Math
-- Interest: Excited about software engineer roles; experienced in backend and iOS development.
+- **Education**: Junior in Computer Science @**Columbia University, Barnard College**
+- **Coursework**: Parallel Optimization for Robotics, Natural Language Processing (NLP), Advanced System Programming, Data Structures and Algorithms, Discrete Math
+- **Interest**: Excited about software engineer roles; experienced in backend and iOS development.
 
 ## Project Overview
 This project showcase three innovative projects: Lion Dining, pawprint.ai, and GoKV.
@@ -30,10 +30,18 @@ Lion Dining is an iOS app designed specifically for Columbia University students
 ### GoKV
 GoKV is an efficient Key-Value storage solution developed in Go leveraging [bitcask](https://medium.com/@arpitbhayani/bitcask-a-log-structured-fast-kv-store-c6c728a9536b) model.
 
-<img width="215" alt="Screenshot 2024-09-07 at 22 34 12" src="https://github.com/user-attachments/assets/009ba424-68f4-4ba8-8fee-20c972a150ad">
+<img width="300" alt="Screenshot 2024-09-07 at 22 34 12" src="https://github.com/user-attachments/assets/009ba424-68f4-4ba8-8fee-20c972a150ad">
 
 - **In-Memory Indexing:** By storing keys in memory, GoKV accelerates read operations, making it possible to retrieve values with minimal disk access.
 - **Redis Compatibility:** GoKV extends its functionality by supporting Redis data structures and protocols, allowing seamless data migration and interaction with existing Redis-based systems.
 - **User-Friendly API:** GoKV offers a simple HTTP API that developers can use to perform standard CRUD (Create, Read, Update, Delete) operations. The API endpoints are designed to be intuitive, enabling easy interaction with the database through web protocols.
 
-  
+## Technical Skills
+- **Languages:** Java, C, C++, Python, Golang, Swift, SQL, JavaScript
+- **Frameworks:** Spring Boot, Express.js, Flask
+- **Databases:** PostgreSQL, MongoDB
+- **Cloud & Infra:** AWS (Amazon S3 & Amazon Cloudfront), Docker, Apache Kafka
+- **ML/DS:** CUDA, Numpy, Pandas, OpenAI API, Stable Diffusion
+- **API & Web Tech:** Restful API, HTML, CSS, Node.js, Postman
+- **Test & Debug:** JUnit, Mockito
+- **Version Control & Collab:** Git, GitHub
