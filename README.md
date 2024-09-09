@@ -1,8 +1,8 @@
 # Portfolio
-Welcome to Catherine Zhao's micro-portfolio! This repo shows my personal/team projects only. If you want to learn more about my internship/research experience, please feel free to visit my [LinkedIn](https://www.linkedin.com/in/cathzzr2/).
+Welcome to **Catherine Zhao**'s micro-portfolio! This repo shows my personal/team projects only. If you want to learn more about my internship/research experience, please feel free to visit my [LinkedIn](https://www.linkedin.com/in/cathzzr2/).
 
 ## Personal Info
-- **Education**: Junior in Computer Science @**Columbia University, Barnard College**
+- **Education**: Junior in Computer Science **@Columbia University, Barnard College**
 - **Coursework**: Parallel Optimization for Robotics, Natural Language Processing (NLP), Advanced System Programming, Data Structures and Algorithms, Discrete Math
 - **Interest**: Excited about software engineer roles; experienced in backend and iOS development.
 
