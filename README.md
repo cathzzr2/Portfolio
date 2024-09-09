@@ -16,7 +16,7 @@ Pawprint.ai is a heartfelt virtual pet memorial service that helps pet owners pr
 
 
 - **Bring Memories Back to Life:** Users can upload old or faded photos of their pets, and Pawprint.ai will automatically enhance them using AI technology, improving quality and adding artistic filters.
-- **Interactive Memorial Chat::** Pawprint.ai offers a unique chat feature where users can engage with a chatbot that simulates their pet’s personality. Through an onboarding quiz and memory prompts, the chat becomes more personalized, creating meaningful and comforting conversations.
+- **Interactive Memorial Chat:** Pawprint.ai offers a unique chat feature where users can engage with a chatbot that simulates their pet’s personality. Through an onboarding quiz and memory prompts, the chat becomes more personalized, creating meaningful and comforting conversations.
   
 ### Lion Dining 🦁
 Lion Dining is an iOS app designed specifically for Columbia University students and faculty, helping them discover and review on-campus dining options. 
