@@ -17,7 +17,7 @@ Pawprint.ai is a heartfelt virtual pet memorial service that helps pet owners pr
 - **Interactive Memorial Chat:** Pawprint.ai offers a unique chat feature where users can engage with a chatbot that simulates their pet’s personality. Through an onboarding quiz and memory prompts, the chat becomes more personalized, creating meaningful and comforting conversations.
 - ***Tech stacks:*** Java, Spring Boot, PostgreSQL, MongoDB, Amazon S3, Amazon CloudFront, Kafka, OpenAI API, Stable Diffusion
 
-I worked as a software engineering intern and contributed to developing the backend application.
+I worked as a backend software engineering intern!
   
 ### Lion Dining 🦁 
 [Confidential]
