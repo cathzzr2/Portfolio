@@ -1,5 +1,5 @@
 # Portfolio
-Welcome to **Catherine Zhao**'s micro-portfolio! This repo shows my projects and experience. If you want to learn more about me, please feel free to visit my [LinkedIn](https://www.linkedin.com/in/cathzzr2/).
+Welcome to **Catherine Zhao**'s micro-portfolio! This repo shows my side & internship projects.
 
 ## Personal Info
 - **Education**: Junior in Computer Science **@Columbia University, Barnard College**
