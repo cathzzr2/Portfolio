@@ -32,7 +32,7 @@ Lion Dining is an iOS app designed specifically for Columbia University students
 - ***Tech stacks:*** Swift, Firebase
 
 
-I served as the tech co-founder in a close-knit startup team, leading the iOS full-stack development. Our app is currently in the stages of development and will be launching soon—stay tuned for updates!
+I'm serving as the tech co-founder in a close-knit startup team, leading the iOS full-stack development. Our app is currently in the stages of development and will be launching soon—stay tuned for updates!
 
 
 ### GoKV 📊 
@@ -48,7 +48,7 @@ GoKV is an efficient Key-Value storage solution developed in Go leveraging [bitc
 - ***Tech stacks:*** Go, Redis
 
 
-I am the independent developer for this personal project!
+I was the independent developer for this personal project!
 
 ## Technical Skills
 - **Languages:** Java, C, C++, Python, Golang, Swift, SQL, JavaScript
