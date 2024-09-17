@@ -6,7 +6,8 @@ Welcome to **Catherine Zhao**'s micro-portfolio! This repo shows my projects and
 - **Coursework**: Parallel Optimization for Robotics, Natural Language Processing (NLP), Advanced System Programming, Data Structures and Algorithms, Discrete Math
 - **Interest**: Excited about software engineer roles; interested in backend development, cloud infrastructure, and GPU parallel programming.
 
-### Pawprint.ai 🐾 [Link](https://github.com/cathzzr2/pawprint.ai)
+### Pawprint.ai 🐾 
+[[Link](https://github.com/cathzzr2/pawprint.ai)]
 Pawprint.ai is a heartfelt virtual pet memorial service that helps pet owners preserve and cherish the memories of their beloved companions. It offers an easy-to-use platform where users can enhance old photos of their pets and engage in interactive chats, keeping their pets’ memories alive in a meaningful way.
 
 <img width="300" alt="pawprint" src="https://github.com/user-attachments/assets/1caa2e8c-8178-449b-bbcf-a3bffa250352">
@@ -18,7 +19,8 @@ Pawprint.ai is a heartfelt virtual pet memorial service that helps pet owners pr
 
 I worked as a software engineering intern and contributed to developing the backend application.
   
-### Lion Dining 🦁 [Confidential]
+### Lion Dining 🦁 
+[Confidential]
 Lion Dining is an iOS app designed specifically for Columbia University students and faculty, helping them discover and review on-campus dining options. 
 
 <img width="300" alt="liondining" src="https://github.com/user-attachments/assets/21469224-e2ff-45b2-94d2-3e8a678325bd">
@@ -33,7 +35,8 @@ Lion Dining is an iOS app designed specifically for Columbia University students
 I served as the tech co-founder in a close-knit startup team, leading the iOS full-stack development. Our app is currently in the stages of development and will be launching soon—stay tuned for updates!
 
 
-### GoKV 📊 [Link](https://github.com/cathzzr2/GoKV)
+### GoKV 📊 
+[[Link](https://github.com/cathzzr2/GoKV)]
 GoKV is an efficient Key-Value storage solution developed in Go leveraging [bitcask](https://medium.com/@arpitbhayani/bitcask-a-log-structured-fast-kv-store-c6c728a9536b) model.
 
 <img width="300" alt="Screenshot 2024-09-07 at 22 34 12" src="https://github.com/user-attachments/assets/009ba424-68f4-4ba8-8fee-20c972a150ad">
